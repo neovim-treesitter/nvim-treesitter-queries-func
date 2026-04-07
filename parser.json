@@ -1,7 +1,6 @@
 {
-  "semver": false,
-  "parser_version": "f780ca55e65e7d7360d0229331763e16c452fc98",
-  "location": null,
   "lang": "func",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-func"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-func",
+  "semver": false,
+  "parser_version": "f780ca55e65e7d7360d0229331763e16c452fc98"
 }
